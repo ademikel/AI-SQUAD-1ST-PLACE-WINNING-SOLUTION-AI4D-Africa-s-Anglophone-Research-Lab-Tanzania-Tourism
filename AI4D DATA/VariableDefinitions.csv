@@ -1,0 +1,22 @@
+Column Name,Definition
+id,Unique identifier for each tourist
+country,The country a tourist coming  from.
+age_group,The age group of a tourist.
+travel_with,The relation of people a tourist travel with to Tanzania
+total_female,Total number of females
+total_male,Total number of males
+purpose,The purpose of visiting  Tanzania
+main_activity,The main activity of tourism in Tanzania
+infor_source,The source of information about tourism in Tanzania
+tour_arrangment,The arrangment of visiting Tanzania
+package_transport_int,If the tour package include international transportation service
+package_accomodation,If the tour package include accommodation service
+package_food,If the tour package include food service
+package_transport_tz,If the tour package include transport service within Tanzania 
+package_sightseeing,If the tour package include sightseeing service
+package_guided_tour,If the tour package include tour guide
+package_insurance,if the tour package include insurance service
+night_mainland,Number of nights a tourist spent in Tanzania mainland
+night_zanzibar,Number of nights a tourist spent in Zanzibar
+first_trip_tz,If it was a first  trip to Tanzania
+cost_category,The range of expenditures a tourist spends in Tanzania
